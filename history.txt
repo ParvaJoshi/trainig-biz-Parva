@@ -1,0 +1,74 @@
+sudo adduser parva
+PasswordAthentication
+sudo adduser parva
+sodo adduser Parva
+sudo adduser Parva
+sudo vi/etc/ssh/sshd_config
+sudo vi /etc/ssh/sshd_config
+sudo adduser PARVA
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+sudo passwd PARVA
+ssh -keygen -t rsa
+ssh-keygen -t rsa
+cd .ssh
+ls -l
+cat id_rsa.pub
+ssh root@13.51.86.241
+ssh ec2-user@13.51.86.241
+cd
+ls -la
+cd .ssh
+ls -la
+vi authorized_keys
+sudo adduser parva_new
+sudo vi /etc/ssh/sshd_config
+ls -la
+cd .ssh
+ls -la
+vi authorized_keys 
+cd .ssh
+vi authorized_keys 
+ssh parva_new@51.20.255.132
+sudo parva_new
+sudo su parva_new
+sudo /etc/init.d/oracle-xe-21c configure
+sudo vi $ORACLE_HOME/cv/admin/cvu_config
+sudo /etc/init.d/oracle-xe-21c configure
+vi $ORACLE_HOME/cv/admin/cvu_config
+sudo vi $ORACLE_HOME/cv/admin/cvu_config
+sudo /etc/init.d/oracle-xe-21c configure
+sudo service oracle-xe-21c start
+sqlplus
+imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+stop instances --instance-ids i-0fdce8300cd078aec
+aws ec2 stop instances --instance-ids i-0fdce8300cd078aec
+sudo yum install git
+git clone https://github.com/ParvaJoshi/trainig-biz-Parva.git
+history
+vi push_history.sh
+vi historytogit.sh
+chmod +x ~/trainig-biz-Parva/historytogit.sh
+ chmod +x ~/trainig-biz-Parva/push_history.sh
+ls
+cd trainig-biz-Parva/
+mv push_history.sh ./training-biz-Parva
+mv ./push_history.sh ./training-biz-Parva
+cd ..
+mv push_history.sh ./trainig-biz-Parva/
+ls
+cd trainig-biz-Parva/
+ls
+vi push_history.sh
+chmod +x ~/trainig-biz-Parva/historytogit.sh
+chmod +x ~/trainig-biz-Parva/push_history.sh
+crontab -e
+crontab -l
+ssh-keygen -t rsa -b 4096 -C "parva.joshi01@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+cd ~/training-biz-Parva
+git remote set-url origin git@github.com:ParvaJoshih/training-biz-Parva.git
+git remote -v
+ssh -T git@github.com
