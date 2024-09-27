@@ -72,3 +72,43 @@ cd ~/training-biz-Parva
 git remote set-url origin git@github.com:ParvaJoshih/training-biz-Parva.git
 git remote -v
 ssh -T git@github.com
+cd ~/training-biz-Parva
+cd training-biz-Parva/
+cd trainig-biz-Parva/
+ssh -T git@github.com
+git remote set-url origin git@github.com:ParvaJoshi/trainig-biz-Parva.git
+git remote -v
+ssh -T git@github.com
+~/trainig-biz-Parva/push_history.sh
+sudo grep CRON/var//log/cron
+sudo grep CRON/var//log/cron/
+sudo grep CRON/var/log/cron
+crontab -l
+vi ./push_history.sh 
+crontab -e
+crontb -l
+crontab -l
+sudo grep CRON/var/log/cron
+sudo grep CRON /var/log/cron
+date
+sudo grep CRON /var/log/cron
+git status
+git add .
+git commit -m "commit"
+git push origin main
+ls
+sudo grep CRON /var/log/cron
+date
+./push_history.sh 
+vi ./push_history.sh 
+date
+sudo grep CRON /var/log/cron
+./push_history.sh 
+sudo grep CRON /var/log/cron
+crontab -l
+crontab -e
+crontab -l
+ssh -T git@github.com
+sudo grep CRON /var/log/cron
+vi push_history.sh
+sudo grep CRON /var/log/cron
