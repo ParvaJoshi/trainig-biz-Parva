@@ -1,5 +1,6 @@
 #!/bin/bash
 export HISTTIMEFORMAT="%F %T "
+history -a
 source ~/. bashrc
 # Change directory to the repo
 cd /home/ec2-user/trainig-biz-Parva
