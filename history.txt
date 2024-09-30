@@ -149,3 +149,6 @@ du -h
 df -ah
 top
 uname -a
+hostname
+env| grep ORACLE
+ps -ef
