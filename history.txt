@@ -112,3 +112,35 @@ ssh -T git@github.com
 sudo grep CRON /var/log/cron
 vi push_history.sh
 sudo grep CRON /var/log/cron
+cd trainig-biz-Parva/
+sudo grep CRON /var/log/cron
+date
+sudo grep CRON /var/log/cron
+history
+crontab -e
+sudo grep CRON /var/log/cron
+vi push_history.sh 
+pwd
+sudo grep CRON /var/log/cron
+date
+vi push_history.sh
+sudo grep CRON /var/log/cron
+vi push_history.sh
+cat ~/.bashrc
+./push_history.sh 
+tail ~/.bash_history 
+crontab -e
+date
+tail ~/.bash_history 
+date
+tail ~/.bash_history 
+source ~/.bashrc
+
+vi push_history.sh 
+cd ..
+ls -l
+ls -al
+cd trainig-biz-Parva
+history
+vi push_history.sh 
+sudo grep CRON /var/log/cron
