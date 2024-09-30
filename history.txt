@@ -144,3 +144,8 @@ cd trainig-biz-Parva
 history
 vi push_history.sh 
 sudo grep CRON /var/log/cron
+free -g
+du -h
+df -ah
+top
+uname -a
