@@ -152,3 +152,17 @@ uname -a
 hostname
 env| grep ORACLE
 ps -ef
+tail
+ls
+tail authorized_keys 
+tail historytogit.sh 
+wc historytogit.sh
+find ~ -name "*.txt"
+cat ./.profile
+echo "fydydy"
+pwd
+nslookup 8.8.8.8
+ping amazon.com
+ping -s 5 amazon.com
+ping -n 5 amazon.com
+ping -c 5 amazon.com
