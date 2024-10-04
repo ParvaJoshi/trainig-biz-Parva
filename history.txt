@@ -166,3 +166,6 @@ ping amazon.com
 ping -s 5 amazon.com
 ping -n 5 amazon.com
 ping -c 5 amazon.com
+sudo yum install -y s-nail
+sudo yum install -y sysstat
+sudo vi /etc/s-nail.rc
